@@ -6,5 +6,5 @@
 	<li <?php if($current == 'report.php') echo 'class="active"'?>><a href="report.php">Report</a><span></li>
 	<li <?php if($current == 'alerts.php') echo 'class="active"'?>><a href="alerts.php">Alerts</a><span> </li>	
 	
-	<li><a href="logout.php">Logout</a></li>
+	<li><a href="logout.php">Log out</a></li>
 </ul>
